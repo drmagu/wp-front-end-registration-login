@@ -47,9 +47,3 @@ class Main {
 	}
  	
 }
-
-if (false):
-function test_me() {
-	echo "Hello Cutie";	
-}
-endif;
